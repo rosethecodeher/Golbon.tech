@@ -1,0 +1,13 @@
+{
+    "name": "golbonmarandiz/personalwebsite",
+    "description": "My New Project",
+    "authors": [
+        {
+            "name": "Golbon Rose Marandiz",
+            "email": "golbonrose@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.12.0"
+    }
+}

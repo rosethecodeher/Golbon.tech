@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.useWebExt": true,
+    "liveServer.settings.port": 0,
+    "php.validate.executablePath": "php",
+    "miramac.node.terminalMode": true,
+    "debug.node.autoAttach": "on",
+    "git.ignoreLimitWarning": true,
+    "liveServer.settings.useLocalIp": true
+}
