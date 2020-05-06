@@ -57,19 +57,8 @@ nav.black{
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    background-image: linear-gradient(rgba(217,193,187,.5),rgba(219,159,144,.5)), url(../images/abstractpink.jpg);
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
-.hero-section > .content-wrapper {
-    display: grid;
-    grid-template-columns: 
-    justify-content: center;
-    text-align: center;
-}
+
 .hero-section > .content-wrapper h1 {
     font-family: 'montserrat','sans-serif';
     font-weight: 400;
@@ -109,6 +98,9 @@ nav.black{
 }
 #about {
     background-color: #d9c1bb;
+    display: flex;
+    align-content: center;
+    flex-direction:column;
 }
 .bio-wrapper >.bio h1 {
     font-family: 'montserrat','sans-serif';
@@ -149,7 +141,7 @@ nav.black{
 .about > .column-wrapper {
     display:flex;
     justify-content: space-around;
-    padding-bottom: 1%;
+    padding-bottom: 4%;
 }
 .about >.column-wrapper > .column {
     margin-top: 10px;
@@ -175,9 +167,10 @@ nav.black{
     text-align: center;
     text-decoration: #8f2307;
     margin-top: 20%;
-    font-size: 2.6em;
+    font-size: 2em;
     font-weight: 600;
     font-family: 'source code pro','sans-serif';
+    
 }
 .portfolio h3 {
 
@@ -185,8 +178,7 @@ nav.black{
     font-family: 'montserrat','sans-serif';
     font-weight: 400;
     text-align: center;
-    margin-top: 0px;
-    padding-bottom: 20%;
+    padding-bottom: 40%;
 }
 .portfolio h3 a {
     color: #8f2307;
@@ -289,7 +281,7 @@ footer a {
 .footer-wrapper >.social-media-wrapper  {
     color: white;
     float: right;
-    margin-top: 3%;
+
     margin-right: 2%;
     font-size: 2em;
 }

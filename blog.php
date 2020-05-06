@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Golbon Rose</title>
+	<title>BLOG | Golbon Rose</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link href="images/IMG_7399.JPG.favicon.ico" rel="shortcut icon" />
 	<link href="Styles/commonstyles.css?v1" rel="stylesheet" />
@@ -15,8 +15,7 @@
 <ul>
 	<li><a href="#about">About</a></li>
 	<li><a href="images/golbonr rose resume.pdf" target="_blank">Resume</a></li>
-    <li><a href="#portfolio">Portfolio</a></li>
-    <li><a href="/blog.php"> Blog</a></li>
+	<li><a href="#portfolio">Portfolio</a></li>
 	<li><a href="#contact">Contact</a></li>
 </ul>
 </div>
@@ -31,64 +30,11 @@
             })
         </script></nav>
 
-<div class="hero-section" id="home">
-<div class="content-wrapper">
-<h1>Hi, I&#39;m Golbon Rose!</h1>
-
-<h3>Freelancer. Cat-lover. Writer. Passionate about innovation and creativity.</h3>
-
-<div class="btn"><a href="#about">LEARN MORE </a></div>
-</div>
+<div class="blog-content">
+    <div class="blog-content-wrapper">
+    </div>
 </div>
 
-<div class="about" id="about">
-<div class="bio-wrapper">
-<div class="bio">
-<div class="headshot"><img class="head-shot" src="images/darlaandi.jpg" /></div>
-
-<div class="bio-text">
-<h1>About Me</h1>
-
-<p>I am a first-generation immigrant, born in Tehran, Iran. I moved to Washington state in 2001, and was raised in Redmond,WA for 11 years, before relocating to the Texas Panhandle. Between now and then, I have been back and forth between WA and TX.</p>
-
-<p>When I was a child, my interest in pixel art, along with my Hilary Duff obsession lead me to teach myself web-development and design. I was always on fansites and knew I had to make one.</p>
-
-<p>I picked up coding again Fall 2019, after years and fell in love with it all over again. I am currently working towards my full-stack development certification through Bootega Devcamp.</p>
-
-<p>I recently discovered how much I love the creative aspects of business, and bringing a vision to life. My goal is to serve clients , through creativity, strategy, and craftsmanship. My strengths include implementation, client relations, and QA.</p>
-
-<p>I love running, creating craft beverages, writing, singing, reading, spending time with my loved ones(including my cats, Darla and Frodo), and watching tv.</p>
-</div>
-</div>
-</div>
-
-<div class="column-wrapper">
-<div class="column">
-<p>What I do:<br />
-branding, strategy,<br />
-front-end development,<br />
-website management</p>
-</div>
-
-<div class="column">
-<p>What I Don&#39;t Do:<br />
-content-writing,<br />
-graphic design,<br />
-social media management,<br />
-SEO, SEM</p>
-</div>
-</div>
-</div>
-
-<div class="portfolio" id="portfolio">
-<h1>There doesn&#39;t seem to be much here yet...</h1>
-
-<h3><a href="#contact">Help me change that!</a></h3>
-</div>
-
-<div class="contact-section" id="contact">
-<div class="contact_form">
-<h1>Get in touch.</h1>
 
 <form action="contact-form.php" method="POST">
 <p>Name:</p>

@@ -1,0 +1,26 @@
+{
+  "name": "golbonrose.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulp.js",
+  "dependencies": {
+    "babel-loader": "^8.1.0",
+    "babel-preset-env": "^1.7.0",
+    "gulp-cli": "^2.2.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "webpack": "^4.43.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open --hot",
+    "build": "webpack --mode production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
